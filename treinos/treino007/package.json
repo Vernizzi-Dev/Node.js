@@ -1,8 +1,7 @@
 {
-  "name": "aula006-package-basic",
+  "name": "treino007",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "devDependencies": {
+    "log-symbols": "^7.0.1"
+  },
   "dependencies": {
     "chalk": "^5.6.0"
   }
